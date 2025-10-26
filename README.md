@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System
+# 🏥 Hospital Management System - OOP & SQL Project
 
 <div align="center">
 
